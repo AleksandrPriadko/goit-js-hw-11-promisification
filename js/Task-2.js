@@ -28,3 +28,4 @@ toggleUserState(users, 'Lux', logger); */
  */
 toggleUserState(users, 'Mango').then(logger);
 toggleUserState(users, 'Lux').then(logger);
+
